@@ -45,7 +45,9 @@
    "type": "markdown",
    "content-file": ".guides/content/Math-functions-6929.md",
    "chapter": true,
-   "reset": []
+   "reset": [
+    "1-math"
+   ]
   },
   {
    "id": "42a1c38d-a6ea-ea58-efbb-64d230505d",
@@ -140,7 +142,7 @@
      "action": "close"
     },
     {
-     "path": "example-compound.flode",
+     "path": "1-math/example-compound.flode",
      "panel": 0,
      "action": "open"
     }
@@ -182,7 +184,7 @@
      "action": "close"
     },
     {
-     "path": "example-string.flode",
+     "path": "2-string/example-string.flode",
      "panel": 0,
      "action": "open"
     }
@@ -200,7 +202,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Remember-the-Lexikon-3f84.md",
+   "content-file": ".guides/content/Remember-the-Lexikon--3f84.md",
    "chapter": false,
    "reset": []
   },
@@ -227,7 +229,7 @@
   },
   {
    "id": "ce5ba682-50a1-d8fd-80e4-f5aa2e818504",
-   "title": "Hunt the #",
+   "title": "Hunt the red color",
    "files": [
     {
      "path": "#tabs",
@@ -242,13 +244,13 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hunt-the---ce5b.md",
+   "content-file": ".guides/content/Hunt-the-red-color-ce5b.md",
    "chapter": false,
    "reset": []
   },
   {
    "id": "5e707649-e359-26c8-987c-77f3265daf6",
-   "title": "Hunt the # Part 2",
+   "title": "Hunt the Red Part 2",
    "files": [
     {
      "path": "#tabs",
@@ -263,7 +265,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hunt-the---Part-2-5e70.md",
+   "content-file": ".guides/content/Hunt-the-Red-Part-2-5e70.md",
    "chapter": false,
    "reset": []
   },
@@ -297,7 +299,7 @@
      "action": "close"
     },
     {
-     "path": "example-slice.flode",
+     "path": "2-string/example-slice.flode",
      "panel": 0,
      "action": "open"
     }
@@ -339,7 +341,7 @@
      "action": "close"
     },
     {
-     "path": "example-array.flode",
+     "path": "3-array/example-array.flode",
      "panel": 0,
      "action": "open"
     }
@@ -357,7 +359,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-Lexikon-7fdc.md",
+   "content-file": ".guides/content/Lexikon-reminder-7fdc.md",
    "chapter": false,
    "reset": []
   },
@@ -370,7 +372,7 @@
      "action": "close"
     },
     {
-     "path": "example-pushpop.flode",
+     "path": "3-array/example-pushpop.flode",
      "panel": 0,
      "action": "open"
     }
@@ -384,7 +386,7 @@
   },
   {
    "id": "6ccf7c10-cccf-bd13-a882-27e0909cd600",
-   "title": "Adding elements yourself",
+   "title": "Pushing and popping",
    "files": [
     {
      "path": "#tabs",

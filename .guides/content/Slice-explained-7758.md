@@ -1,5 +1,10 @@
 The `slice()` function extracts a portion of a string in various ways.
 
+It is similar to `substr()` but not the same.
+
+- `substr(start, count)` extracts from `count` characters starting at the position `start`.
+- whereas `slice(start, end)` extracts starting at the index `start` and ending at the index `end`.
+
 ## Simple use case
 This is a standard use case.
 
