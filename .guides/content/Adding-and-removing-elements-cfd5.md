@@ -2,7 +2,7 @@ On the last page you saw some functions that add and remove elements from the st
 
 Take a look at the Flode chart on the left hand side. You should be able to figure out what is going on by stepping though it.
 
-We'll then do a couple of challenges to see!
+We'll then do a couple of challenges to see:
 
 **Array.pop()** - removes the last element from an array and returns that element, should you need it.
 **Array.push()** - adds one or more elements to the end of an array and returns the new length of the array.

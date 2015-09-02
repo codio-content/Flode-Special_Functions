@@ -19,7 +19,7 @@ searchString = 'world'
 - **String.endsWith(str)** - determines whether a string ends with the characters of another string. Returns boolean `true` or `false`.
 - **String.includes()** - determines whether one string may be found within another string. So `myString.includes('world')` returns the special *boolean* value `true`.
 - **String.substr(startPos, count)** - returns the characters in a string beginning at the specified location through the specified number of characters. 
-- **String.substring(startPos[, endPos])** - returns the characters in a string between two indexes into the string. If 'endPos' is not specified it takes all character to the end of the string.
+- **String.substring(startPos[, endPos])** - returns the characters in a string between two indexes into the string. If `endPos` is not specified it takes all character to the end of the string.
 
 
 ## Chopping up and joining strings

@@ -9,11 +9,42 @@
      "action": "close"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Special-Functions-8dd8.md",
    "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "7b7d459e-3fdd-f21d-807-9f9ecc19b4a7",
+   "title": "Preparation video",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Preparation-video-7b7d.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "fdf55a54-df6-5c8e-9cdb-6190770729d9",
+   "title": "Experiments",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "experiment.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Experiments-fdf5.md",
+   "chapter": false,
    "reset": []
   },
   {
@@ -35,7 +66,7 @@
      "action": "close"
     },
     {
-     "path": "example-math.flode",
+     "path": "1-math/example-math.flode",
      "panel": 0,
      "action": "open"
     }
@@ -215,7 +246,7 @@
      "action": "close"
     },
     {
-     "path": "example-search.flode",
+     "path": "2-string/example-search.flode",
      "panel": 0,
      "action": "open"
     }
@@ -354,33 +385,23 @@
    "reset": []
   },
   {
+   "id": "cfd5ad6b-ff27-7c77-4b54-78564dadcf71",
+   "title": "Adding and removing elements",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Adding-and-removing-elements-cfd5.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
    "id": "7fdc5564-2c25-2d64-e51d-6cf23b0491b1",
    "title": "Lexikon reminder",
    "files": [],
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Lexikon-reminder-7fdc.md",
-   "chapter": false,
-   "reset": []
-  },
-  {
-   "id": "cfd5ad6b-ff27-7c77-4b54-78564dadcf71",
-   "title": "Adding and removing elements",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "3-array/example-pushpop.flode",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Adding-and-removing-elements-cfd5.md",
    "chapter": false,
    "reset": []
   },
@@ -401,7 +422,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Adding-elements-yourself-6ccf.md",
+   "content-file": ".guides/content/Pushing-and-popping-6ccf.md",
    "chapter": false,
    "reset": []
   },
