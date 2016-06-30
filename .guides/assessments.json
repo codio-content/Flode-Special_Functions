@@ -1,0 +1,194 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1089550971",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Hunt the red color",
+   "instructions": "We are passing in an array of strings. Some of the these strings may contain the word 'red'.\n\nUsing the `indexOf()` function, you should output the index of each element that contains this word. Use a loop to work through each element.",
+   "command": "node hunt.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1588660572",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Slice and dice",
+   "instructions": "We are passing in an array of strings. Each string *may* contain a word surrounded by the '#' character. \n\nYou could get any of the following strings \n\n- 'Extract #this section#'\n- '#This section#'\n- '#This section' (invalid)\n- 'This section#' (invalid)\n- 'This section'\n\nYou should\n\n- extract the characters between the '#' characters and then output the modified array. \n- if the string only contains one '#' then set the string to 'invalid'\n\nYou can work on the input array directly, outputting `input0` at the end. Or you can create a new array and output that.\n\n**Important:** be sure to use all possible string permutations in your test data. ",
+   "command": "node slice.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1743574742",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Hypotenuse",
+   "instructions": "We pass in the lengths of two sides of a right angled triangle, a and b.\n\nCalculate and return the length of the hypotenuse, h,  using Pythagoras' Theorem : $ h = \\sqrt{a^2 + b^2 } $",
+   "command": "node hypotenuse.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2297527153",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Search and slice",
+   "instructions": "We pass in an array of numbers. This array may have 0, 1 or 2 elements containing the value `999`. \n\n1. Using `array.indexOf()`, locate any of the`999` elements.\n1. If there is only 1 `999` then output everything to the right.\n1. If there are 2 `999` elements then output everything in between them\n1. If there are none, then output any empty array\n\nUse `array.slice()` to slice up your array as you did with `string.array()`.\n\nBe sure to test all cases with your test data for `input0`.",
+   "command": "node search-slice.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2463677375",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Pushing and popping",
+   "instructions": "We will pass in an array of numbers.\n\nYou should \n\n1. Remove the first and last elements of the array\n1. Add an element of value `-999` to the front and end of the array\n1. Add an element of value `999` to the end of the array\n1. Output the result",
+   "command": "node pushpop.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3290480707",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Upper Case and Trim",
+   "instructions": "We are passing in an array of strings. \n\nYour job is to \n\n- trim away any empty space from the start or end of each string\n- convert the string to upper case\n- output the modified array",
+   "command": "node uct.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3384522766",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Hunt the # Part 2",
+   "instructions": "Again, we are passing in an array of strings. Some of the these strings may contain the word 'red'.\n\nUsing the `indexOf()` function, but this time you should create a new array and add any elements that contain the word 'red' from the input array to your new array, which you should output.\n\n",
+   "command": "node hunt2.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3795454847",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Rounding",
+   "instructions": "We pass in a value, N. \n\nYou should return 3 values in the following order\n\n- the number rounded to the nearest integer\n- the nearest integer value greater than N\n- the nearest integer value less than N",
+   "command": "node round.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3990838277",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "X to the Y",
+   "instructions": "Using the `pow()` function, return $ x^y $ where X and Y are passed in as inputs.",
+   "command": "node power.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4086882628",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Random",
+   "instructions": "Generate a random **integer** between 0 and 10 and output the result.\n\n**Tip: ** you will want to use the `Math.floor`, `Math.ceil` or `Math.round` function to make sure you end up with an integer.",
+   "command": "node random.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-81735501",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Area of a cylinder",
+   "instructions": "We pass in the radius of the cylinder, r, and its height, h. \n\nYou should calculate the volume of the cylinder, whose formula is $ V = \\pi r^2h $",
+   "command": "node cylinder.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-939255518",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Concat arrays",
+   "instructions": "We will pass in 3 arrays as inputs. You should join all these arrays together into a single array and output the result.\n\n`array.concat()` is your friend! Use the Lexikon to see how it works by pressing the '?' icon ion the toolbar and then searching for 'concat'.",
+   "command": "node concat-array.js",
+   "points": 1
+  }
+ }
+]
