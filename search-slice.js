@@ -38,7 +38,7 @@ if(output.length == 0) {
   process.exit(1)
 }
 
-out = output[1];
+out = output[0];
 
 // console.log(expected)
 // console.log(out)
