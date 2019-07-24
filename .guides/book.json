@@ -1,0 +1,176 @@
+{
+ "name": "Flode-Special_Functions",
+ "children": [
+  {
+   "title": "Special Functions",
+   "id": "8dd81a14-d39e-2910-3f18-b79c9e63530d",
+   "pageId": "8dd81a14-d39e-2910-3f18-b79c9e63530d",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Preparation video",
+     "id": "7b7d459e-3fdd-f21d-807-9f9ecc19b4a7",
+     "pageId": "7b7d459e-3fdd-f21d-807-9f9ecc19b4a7",
+     "type": "page"
+    },
+    {
+     "title": "Experiments",
+     "id": "fdf55a54-df6-5c8e-9cdb-6190770729d9",
+     "pageId": "fdf55a54-df6-5c8e-9cdb-6190770729d9",
+     "type": "page"
+    },
+    {
+     "title": "The Lexikon",
+     "id": "c489fe20-27d1-87b8-ac04-270ecb573420",
+     "pageId": "c489fe20-27d1-87b8-ac04-270ecb573420",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Math functions",
+   "id": "69297c77-2210-251e-3043-1900cb47c962",
+   "pageId": "69297c77-2210-251e-3043-1900cb47c962",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Volume of a cylinder",
+     "id": "42a1c38d-a6ea-ea58-efbb-64d230505d",
+     "pageId": "42a1c38d-a6ea-ea58-efbb-64d230505d",
+     "type": "page"
+    },
+    {
+     "title": "Hypotenuse",
+     "id": "e214179-3be1-52b1-fe87-5ec1c2f496e9",
+     "pageId": "e214179-3be1-52b1-fe87-5ec1c2f496e9",
+     "type": "page"
+    },
+    {
+     "title": "Rounding",
+     "id": "3ef4e141-a13f-c10a-daa8-194b9c62511",
+     "pageId": "3ef4e141-a13f-c10a-daa8-194b9c62511",
+     "type": "page"
+    },
+    {
+     "title": "X to the Y",
+     "id": "9f10bac5-4a68-9c12-1034-594811652ff6",
+     "pageId": "9f10bac5-4a68-9c12-1034-594811652ff6",
+     "type": "page"
+    },
+    {
+     "title": "Compound functions",
+     "id": "c378058-392c-bc37-f95c-814f6e8cebbb",
+     "pageId": "c378058-392c-bc37-f95c-814f6e8cebbb",
+     "type": "page"
+    },
+    {
+     "title": "Random number",
+     "id": "599c69b2-2f23-f01e-6ddb-582935d74a3",
+     "pageId": "599c69b2-2f23-f01e-6ddb-582935d74a3",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "String functions",
+   "id": "cc3412a8-2c5e-c986-47c8-bf61d56db77c",
+   "pageId": "cc3412a8-2c5e-c986-47c8-bf61d56db77c",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Remember the Lexikon?",
+     "id": "3f846d37-91b-69a6-cbd5-f0969c876e32",
+     "pageId": "3f846d37-91b-69a6-cbd5-f0969c876e32",
+     "type": "page"
+    },
+    {
+     "title": "Searching Examples",
+     "id": "c747148a-c61f-a0f8-3111-e797da619b64",
+     "pageId": "c747148a-c61f-a0f8-3111-e797da619b64",
+     "type": "page"
+    },
+    {
+     "title": "Hunt the red color",
+     "id": "ce5ba682-50a1-d8fd-80e4-f5aa2e818504",
+     "pageId": "ce5ba682-50a1-d8fd-80e4-f5aa2e818504",
+     "type": "page"
+    },
+    {
+     "title": "Hunt the Red Part 2",
+     "id": "5e707649-e359-26c8-987c-77f3265daf6",
+     "pageId": "5e707649-e359-26c8-987c-77f3265daf6",
+     "type": "page"
+    },
+    {
+     "title": "Upper Case and Trim",
+     "id": "be643a5f-4333-e1f9-417a-bc9764e52c48",
+     "pageId": "be643a5f-4333-e1f9-417a-bc9764e52c48",
+     "type": "page"
+    },
+    {
+     "title": "Slice explained",
+     "id": "77585dfa-de41-5fc8-1515-e760b10c9acf",
+     "pageId": "77585dfa-de41-5fc8-1515-e760b10c9acf",
+     "type": "page"
+    },
+    {
+     "title": "Slice challenge",
+     "id": "a9b72db2-7d2d-23e8-20-d7a1ad366c86",
+     "pageId": "a9b72db2-7d2d-23e8-20-d7a1ad366c86",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Array functions",
+   "id": "f1d83cd-f29f-bb5d-32b5-7b52772f321f",
+   "pageId": "f1d83cd-f29f-bb5d-32b5-7b52772f321f",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Adding and removing elements",
+     "id": "cfd5ad6b-ff27-7c77-4b54-78564dadcf71",
+     "pageId": "cfd5ad6b-ff27-7c77-4b54-78564dadcf71",
+     "type": "page"
+    },
+    {
+     "title": "Lexikon reminder",
+     "id": "7fdc5564-2c25-2d64-e51d-6cf23b0491b1",
+     "pageId": "7fdc5564-2c25-2d64-e51d-6cf23b0491b1",
+     "type": "page"
+    },
+    {
+     "title": "Pushing and popping",
+     "id": "6ccf7c10-cccf-bd13-a882-27e0909cd600",
+     "pageId": "6ccf7c10-cccf-bd13-a882-27e0909cd600",
+     "type": "page"
+    },
+    {
+     "title": "Joining arrays",
+     "id": "ff16d170-e44d-60b4-427-8d5d2d1aa410",
+     "pageId": "ff16d170-e44d-60b4-427-8d5d2d1aa410",
+     "type": "page"
+    },
+    {
+     "title": "Searching arrays",
+     "id": "a70ba35-ebb-7929-49ab-8acf5336ab64",
+     "pageId": "a70ba35-ebb-7929-49ab-8acf5336ab64",
+     "type": "page"
+    },
+    {
+     "title": "All done",
+     "id": "2c3c98ba-8817-ede6-4244-52ab59b52084",
+     "pageId": "2c3c98ba-8817-ede6-4244-52ab59b52084",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Teacher complete solutions",
+   "id": "370d72bc-5e4e-a30f-c52c-48861c16dd0f",
+   "pageId": "370d72bc-5e4e-a30f-c52c-48861c16dd0f",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
